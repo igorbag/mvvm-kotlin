@@ -3,4 +3,6 @@
 
     <string name="retry">Retry</string>
     <string name="post_error">An error occurred while loading the posts</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
 </resources>
